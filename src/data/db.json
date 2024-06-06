@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "nom": "Rodolphe",
+      "id": 5,
+      "actif": true
+    },
+    {
+      "nom": "Miha",
+      "id": 6,
+      "actif": true
+    },
+    {
+      "nom": "Charles",
+      "id": 7,
+      "actif": true
+    },
+    {
+      "nom": "Stéphane",
+      "id": 8,
+      "actif": true
+    },
+    {
+      "nom": "James",
+      "id": 9,
+      "actif": true
+    },
+    {
+      "nom": "Malek",
+      "id": 10,
+      "actif": true
+    },
+    {
+      "nom": "Cyrille",
+      "id": 11,
+      "actif": true
+    },
+    {
+      "nom": "John",
+      "id": 12,
+      "actif": true
+    },
+    {
+      "nom": "Luigi",
+      "id": 13,
+      "actif": true
+    },
+    {
+      "nom": "Robert",
+      "actif": "false",
+      "id": "55"
+    },
+    {
+      "nom": "Yves",
+      "actif": true,
+      "id": "150"
+    },
+    {
+      "nom": "Thierry",
+      "actif": true,
+      "id": "2000"
+    }
+  ]
+}
